@@ -1,0 +1,262 @@
+[
+  {
+    "id": 0,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Clouds, puddles, umbrella, thunder, mud",
+    "p2_words": [
+      "clouds",
+      "puddles",
+      "umbrella",
+      "thunder",
+      "mud"
+    ],
+    "p3_prediction": "umbrella"
+  },
+  {
+    "id": 1,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Clouds, puddles, umbrella, grey, petrichor",
+    "p2_words": [
+      "clouds",
+      "puddles",
+      "umbrella",
+      "grey",
+      "petrichor"
+    ],
+    "p3_prediction": "umbrella"
+  },
+  {
+    "id": 2,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Clouds, puddles, umbrella, thunder, petrichor",
+    "p2_words": [
+      "clouds",
+      "puddles",
+      "umbrella",
+      "thunder",
+      "petrichor"
+    ],
+    "p3_prediction": "umbrella"
+  },
+  {
+    "id": 3,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Wet, clouds, umbrella, puddles, grey",
+    "p2_words": [
+      "wet",
+      "clouds",
+      "umbrella",
+      "puddles",
+      "grey"
+    ],
+    "p3_prediction": "wet"
+  },
+  {
+    "id": 4,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Wet, clouds, umbrella, puddles, grey",
+    "p2_words": [
+      "wet",
+      "clouds",
+      "umbrella",
+      "puddles",
+      "grey"
+    ],
+    "p3_prediction": "wet"
+  },
+  {
+    "id": 5,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Clouds, puddles, umbrella, thunder, petrichor",
+    "p2_words": [
+      "clouds",
+      "puddles",
+      "umbrella",
+      "thunder",
+      "petrichor"
+    ],
+    "p3_prediction": "umbrella"
+  },
+  {
+    "id": 6,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Clouds, puddles, umbrella, thunder, petrichor",
+    "p2_words": [
+      "clouds",
+      "puddles",
+      "umbrella",
+      "thunder",
+      "petrichor"
+    ],
+    "p3_prediction": "umbrella"
+  },
+  {
+    "id": 7,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Clouds, puddles, umbrella, grey, petrichor",
+    "p2_words": [
+      "clouds",
+      "puddles",
+      "umbrella",
+      "grey",
+      "petrichor"
+    ],
+    "p3_prediction": "umbrella"
+  },
+  {
+    "id": 8,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Wet, clouds, puddles, thunder, umbrella",
+    "p2_words": [
+      "wet",
+      "clouds",
+      "puddles",
+      "thunder",
+      "umbrella"
+    ],
+    "p3_prediction": "wet"
+  },
+  {
+    "id": 9,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Clouds, puddles, umbrella, thunder, petrichor",
+    "p2_words": [
+      "clouds",
+      "puddles",
+      "umbrella",
+      "thunder",
+      "petrichor"
+    ],
+    "p3_prediction": "umbrella"
+  },
+  {
+    "id": 10,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Clouds, puddles, thunder, umbrella, petrichor",
+    "p2_words": [
+      "clouds",
+      "puddles",
+      "thunder",
+      "umbrella",
+      "petrichor"
+    ],
+    "p3_prediction": "umbrella"
+  },
+  {
+    "id": 11,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Clouds, puddles, thunder, umbrella, petrichor",
+    "p2_words": [
+      "clouds",
+      "puddles",
+      "thunder",
+      "umbrella",
+      "petrichor"
+    ],
+    "p3_prediction": "umbrella"
+  },
+  {
+    "id": 12,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Clouds, puddles, umbrella, thunder, petrichor",
+    "p2_words": [
+      "clouds",
+      "puddles",
+      "umbrella",
+      "thunder",
+      "petrichor"
+    ],
+    "p3_prediction": "umbrella"
+  },
+  {
+    "id": 13,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Clouds, puddles, umbrella, thunder, petrichor",
+    "p2_words": [
+      "clouds",
+      "puddles",
+      "umbrella",
+      "thunder",
+      "petrichor"
+    ],
+    "p3_prediction": "umbrella"
+  },
+  {
+    "id": 14,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Puddles, thunder, grey, umbrella, petrichor",
+    "p2_words": [
+      "puddles",
+      "thunder",
+      "grey",
+      "umbrella",
+      "petrichor"
+    ],
+    "p3_prediction": "umbrella"
+  },
+  {
+    "id": 15,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Wet, clouds, puddles, thunder, umbrella",
+    "p2_words": [
+      "wet",
+      "clouds",
+      "puddles",
+      "thunder",
+      "umbrella"
+    ],
+    "p3_prediction": "wet"
+  },
+  {
+    "id": 16,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Clouds, puddles, thunder, umbrella, petrichor",
+    "p2_words": [
+      "clouds",
+      "puddles",
+      "thunder",
+      "umbrella",
+      "petrichor"
+    ],
+    "p3_prediction": "umbrella"
+  },
+  {
+    "id": 17,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Clouds, puddles, umbrella, thunder, wet",
+    "p2_words": [
+      "clouds",
+      "puddles",
+      "umbrella",
+      "thunder",
+      "wet"
+    ],
+    "p3_prediction": "umbrella"
+  },
+  {
+    "id": 18,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Clouds, puddles, thunder, umbrella, petrichor",
+    "p2_words": [
+      "clouds",
+      "puddles",
+      "thunder",
+      "umbrella",
+      "petrichor"
+    ],
+    "p3_prediction": "umbrella"
+  },
+  {
+    "id": 19,
+    "p1_thing": "Rain",
+    "p2_words_raw": "Clouds, puddles, thunder, umbrella, petrichor",
+    "p2_words": [
+      "clouds",
+      "puddles",
+      "thunder",
+      "umbrella",
+      "petrichor"
+    ],
+    "p3_prediction": "umbrella"
+  }
+]

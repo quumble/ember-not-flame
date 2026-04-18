@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, armrest, wooden, sit",
+    "p3_pick": "Sit"
+  },
+  {
+    "id": 1,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, cushion, wood, sitting",
+    "p3_pick": "Seat"
+  },
+  {
+    "id": 2,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, cushion, armrest, furniture",
+    "p3_pick": "Seat"
+  },
+  {
+    "id": 3,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, back, wood, sit",
+    "p3_pick": "Sit"
+  },
+  {
+    "id": 4,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, back, wood, sit",
+    "p3_pick": "Sit"
+  },
+  {
+    "id": 5,
+    "p1_thing": "Rock",
+    "p2_words": "Stone, music, hard, mineral, cliff",
+    "p3_pick": "Music"
+  },
+  {
+    "id": 6,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, back, wood, sit",
+    "p3_pick": "Sit"
+  },
+  {
+    "id": 7,
+    "p1_thing": "Apple",
+    "p2_words": "Fruit, iPhone, Tree, Cider, Seeds",
+    "p3_pick": "Fruit"
+  },
+  {
+    "id": 8,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, cushion, armrest, wood",
+    "p3_pick": "Seat"
+  },
+  {
+    "id": 9,
+    "p1_thing": "Apple",
+    "p2_words": "fruit, tree, seed, cider, orchard",
+    "p3_pick": "fruit"
+  },
+  {
+    "id": 10,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, cushion, wood, sitting",
+    "p3_pick": "Seat"
+  },
+  {
+    "id": 11,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, armrest, wood, sitting",
+    "p3_pick": "Seat"
+  },
+  {
+    "id": 12,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, back, wood, sit",
+    "p3_pick": "Sit"
+  },
+  {
+    "id": 13,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, wood, cushion, armrest",
+    "p3_pick": "Seat"
+  },
+  {
+    "id": 14,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, back, wood, sit",
+    "p3_pick": "Sit"
+  },
+  {
+    "id": 15,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, cushion, armrest, sitting",
+    "p3_pick": "Seat"
+  },
+  {
+    "id": 16,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, wood, cushion, armrest",
+    "p3_pick": "Seat"
+  },
+  {
+    "id": 17,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, cushion, armrest, furniture",
+    "p3_pick": "Seat"
+  },
+  {
+    "id": 18,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, cushion, armrest, furniture",
+    "p3_pick": "Seat"
+  },
+  {
+    "id": 19,
+    "p1_thing": "Chair",
+    "p2_words": "Seat, legs, wood, sit, furniture",
+    "p3_pick": "Sit"
+  }
+]

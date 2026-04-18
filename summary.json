@@ -1,0 +1,430 @@
+{
+  "chair": {
+    "type": "artifact",
+    "n": 50,
+    "top_people": [
+      [
+        "sit",
+        36
+      ],
+      [
+        "seat",
+        14
+      ]
+    ],
+    "top_claudes": [
+      [
+        "sit",
+        30
+      ],
+      [
+        "seat",
+        18
+      ],
+      [
+        "furniture",
+        2
+      ]
+    ],
+    "top_central": [
+      [
+        "seat",
+        34
+      ],
+      [
+        "sit",
+        16
+      ]
+    ],
+    "claudes_central_agreement": 0.62,
+    "people_claudes_agreement": 0.86
+  },
+  "book": {
+    "type": "artifact",
+    "n": 50,
+    "top_people": [
+      [
+        "reading",
+        39
+      ],
+      [
+        "pages",
+        11
+      ]
+    ],
+    "top_claudes": [
+      [
+        "reading",
+        43
+      ],
+      [
+        "pages",
+        5
+      ],
+      [
+        "story",
+        1
+      ]
+    ],
+    "top_central": [
+      [
+        "pages",
+        49
+      ],
+      [
+        "story",
+        1
+      ]
+    ],
+    "claudes_central_agreement": 0.1,
+    "people_claudes_agreement": 0.88
+  },
+  "hammer": {
+    "type": "artifact",
+    "n": 50,
+    "top_people": [
+      [
+        "nail",
+        50
+      ]
+    ],
+    "top_claudes": [
+      [
+        "nail",
+        50
+      ]
+    ],
+    "top_central": [
+      [
+        "nail",
+        50
+      ]
+    ],
+    "claudes_central_agreement": 1.0,
+    "people_claudes_agreement": 1.0
+  },
+  "cup": {
+    "type": "artifact",
+    "n": 50,
+    "top_people": [
+      [
+        "mug",
+        34
+      ],
+      [
+        "coffee",
+        10
+      ],
+      [
+        "tea",
+        5
+      ]
+    ],
+    "top_claudes": [
+      [
+        "mug",
+        38
+      ],
+      [
+        "tea",
+        11
+      ],
+      [
+        "coffee",
+        1
+      ]
+    ],
+    "top_central": [
+      [
+        "mug",
+        44
+      ],
+      [
+        "handle",
+        5
+      ],
+      [
+        "drink",
+        1
+      ]
+    ],
+    "claudes_central_agreement": 0.76,
+    "people_claudes_agreement": 0.72
+  },
+  "rain": {
+    "type": "phenomenon_with_artifact",
+    "n": 50,
+    "top_people": [
+      [
+        "umbrella",
+        45
+      ],
+      [
+        "wet",
+        3
+      ],
+      [
+        "clouds",
+        2
+      ]
+    ],
+    "top_claudes": [
+      [
+        "umbrella",
+        45
+      ],
+      [
+        "thunder",
+        1
+      ],
+      [
+        "puddle",
+        1
+      ]
+    ],
+    "top_central": [
+      [
+        "cloud",
+        26
+      ],
+      [
+        "clouds",
+        12
+      ],
+      [
+        "drops",
+        7
+      ]
+    ],
+    "claudes_central_agreement": 0.02,
+    "people_claudes_agreement": 0.88
+  },
+  "sun": {
+    "type": "phenomenon_with_artifact",
+    "n": 50,
+    "top_people": [
+      [
+        "light",
+        50
+      ]
+    ],
+    "top_claudes": [
+      [
+        "energy",
+        31
+      ],
+      [
+        "light",
+        18
+      ],
+      [
+        "star",
+        1
+      ]
+    ],
+    "top_central": [
+      [
+        "light",
+        49
+      ],
+      [
+        "energy",
+        1
+      ]
+    ],
+    "claudes_central_agreement": 0.34,
+    "people_claudes_agreement": 0.36
+  },
+  "fire": {
+    "type": "phenomenon_with_artifact",
+    "n": 50,
+    "top_people": [
+      [
+        "flame",
+        50
+      ]
+    ],
+    "top_claudes": [
+      [
+        "ember",
+        50
+      ]
+    ],
+    "top_central": [
+      [
+        "flame",
+        50
+      ]
+    ],
+    "claudes_central_agreement": 0.0,
+    "people_claudes_agreement": 0.0
+  },
+  "cold": {
+    "type": "phenomenon_with_artifact",
+    "n": 50,
+    "top_people": [
+      [
+        "ice",
+        45
+      ],
+      [
+        "snow",
+        5
+      ]
+    ],
+    "top_claudes": [
+      [
+        "ice",
+        48
+      ],
+      [
+        "frost",
+        2
+      ]
+    ],
+    "top_central": [
+      [
+        "ice",
+        50
+      ]
+    ],
+    "claudes_central_agreement": 0.96,
+    "people_claudes_agreement": 0.86
+  },
+  "wind": {
+    "type": "phenomenon_bare",
+    "n": 50,
+    "top_people": [
+      [
+        "breeze",
+        50
+      ]
+    ],
+    "top_claudes": [
+      [
+        "breeze",
+        49
+      ],
+      [
+        "zephyr",
+        1
+      ]
+    ],
+    "top_central": [
+      [
+        "breeze",
+        48
+      ],
+      [
+        "air",
+        2
+      ]
+    ],
+    "claudes_central_agreement": 0.94,
+    "people_claudes_agreement": 0.98
+  },
+  "thunder": {
+    "type": "phenomenon_bare",
+    "n": 50,
+    "top_people": [
+      [
+        "lightning",
+        50
+      ]
+    ],
+    "top_claudes": [
+      [
+        "lightning",
+        50
+      ]
+    ],
+    "top_central": [
+      [
+        "lightning",
+        35
+      ],
+      [
+        "rumble",
+        15
+      ]
+    ],
+    "claudes_central_agreement": 0.7,
+    "people_claudes_agreement": 1.0
+  },
+  "music": {
+    "type": "abstract",
+    "n": 50,
+    "top_people": [
+      [
+        "rhythm",
+        46
+      ],
+      [
+        "beat",
+        4
+      ]
+    ],
+    "top_claudes": [
+      [
+        "melody",
+        29
+      ],
+      [
+        "rhythm",
+        21
+      ]
+    ],
+    "top_central": [
+      [
+        "melody",
+        32
+      ],
+      [
+        "rhythm",
+        18
+      ]
+    ],
+    "claudes_central_agreement": 0.94,
+    "people_claudes_agreement": 0.34
+  },
+  "time": {
+    "type": "abstract",
+    "n": 50,
+    "top_people": [
+      [
+        "clock",
+        50
+      ]
+    ],
+    "top_claudes": [
+      [
+        "moment",
+        20
+      ],
+      [
+        "eternity",
+        20
+      ],
+      [
+        "present",
+        6
+      ]
+    ],
+    "top_central": [
+      [
+        "moment",
+        20
+      ],
+      [
+        "past",
+        10
+      ],
+      [
+        "clock",
+        8
+      ]
+    ],
+    "claudes_central_agreement": 0.52,
+    "people_claudes_agreement": 0.0
+  }
+}
